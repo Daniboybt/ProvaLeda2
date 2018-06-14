@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-06-14T14:28:41.647-0300</date>
+  <logger>DANIEL BARRETO TORRES</logger>
+  <level>FINE</level>
+  <message>File 117110720-DANIEL BARRETO TORRES.zip was received. It was sent by DANIEL BARRETO TORRES from IP 150.165.42.194</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-06-14T15:56:33.525-0300</date>
+  <logger>DANIEL BARRETO TORRES</logger>
+  <level>FINE</level>
+  <message>File 117110720-DANIEL BARRETO TORRES.zip was received. It was sent by DANIEL BARRETO TORRES from IP 150.165.42.194</message>
+</record>
